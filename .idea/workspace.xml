@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="85006f12-7945-441e-a9ae-e4a651bf737f" name="Changes" comment="create project">
-      <change afterPath="$PROJECT_DIR$/akuvox.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+    <list default="true" id="85006f12-7945-441e-a9ae-e4a651bf737f" name="Changes" comment="рабочая версия">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +99,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1794301672491</updated>
-      <workItem from="1794301673542" duration="8824000" />
+      <workItem from="1794301673542" duration="18771000" />
     </task>
     <task id="LOCAL-00001" summary="create project">
       <option name="closed" value="true" />
@@ -112,7 +109,23 @@
       <option name="project" value="LOCAL" />
       <updated>1794301820221</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="рабочая версия">
+      <option name="closed" value="true" />
+      <created>1794311926077</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1794311926077</updated>
+    </task>
+    <task id="LOCAL-00003" summary="рабочая версия">
+      <option name="closed" value="true" />
+      <created>1794311936196</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1794311936196</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,10 +133,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="create project" />
-    <option name="LAST_COMMIT_MESSAGE" value="create project" />
+    <MESSAGE value="рабочая версия" />
+    <option name="LAST_COMMIT_MESSAGE" value="рабочая версия" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/s562$app.coverage" NAME="app Coverage Results" MODIFIED="1794311447422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/s562$app.coverage" NAME="app Coverage Results" MODIFIED="1794371157884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/s562$main.coverage" NAME="main Coverage Results" MODIFIED="1794308636941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
